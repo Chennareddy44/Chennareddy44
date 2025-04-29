@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chennareddy44&label=Profile%20views&color=0e75b6&style=flat" alt="chennareddy44" /> </p>
 
-- 🌱 🌱 Currently exploring the world of **computer science** — from **software development** and **system design** to **building interactive UIs** with **React**
+- 🌱 Currently exploring the world of **computer science** — from **software development** and **system design** to **building interactive UIs** with **React**
 
 - 💬 Let’s talk about **programming**, **problem-solving**, **frontend systems** or any **cool tech topics**!
 
