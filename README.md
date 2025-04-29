@@ -13,10 +13,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/chennareddy44/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.png" alt="chennareddy44" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_icon.svg" alt="chennareddy44" height="30" width="40" />
   </a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
