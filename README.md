@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/chennareddy44/" target="blank">
+  <a href="https://www.linkedin.com/in/chennareddy44/" target="_blank">
     <img align="center" src="https://img.icons8.com/?size=200&id=xuvGCOXi8Wyg&format=png" alt="chennareddy44" height="30" width="40" />
   </a>
 </p>
