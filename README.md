@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chenna Reddy</h1>
-<h3 align="center">Frontend developer 💻</h3>
+<h3 align="center">Software Engineer 💻</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chennareddy44&label=Profile%20views&color=0e75b6&style=flat" alt="chennareddy44" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 🌱 Currently exploring the world of **computer science** — from **software development** and **system design** to **building interactive UIs** with **React**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Let’s talk about **programming**, **problem-solving**, **frontend systems** or any **cool tech topics**!
 
 - 📫 How to reach me **kckr118@gmail.com**
 
