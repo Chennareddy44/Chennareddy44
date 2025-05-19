@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chennareddy44&label=Profile%20views&color=0e75b6&style=flat" alt="chennareddy44" /> </p>
 
-- 🌱 Currently exploring the world of **computer science** — from **software development** and **system design** to **building interactive UIs** with **React**
+- 🌱 Currently exploring the world of **computer science** from **software development** and **system design** to **building interactive UIs** with **React**
 
-- 💬 Let’s talk about **programming**, **problem-solving**, **frontend systems** or any **cool tech topics**!
+- 💬 Let’s talk about **programming**, **problem-solving**, **Data Structures and Algorithms**, **frontend systems** or any **cool tech topics**!
 
 - 📫 How to reach me **kckr118@gmail.com**
 
@@ -62,6 +62,14 @@
       height="40"
     />
   </a>
+  <a href="https://leetcode.com" target="_blank" rel="noreferrer">
+  <img
+    src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"
+    alt="LeetCode"
+    width="40"
+    height="40"
+  />
+</a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
@@ -78,6 +86,15 @@
       height="40"
     />
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+    alt="vscode"
+    width="40"
+    height="40"
+  />
+</a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -95,6 +112,14 @@
       height="40"
     />
   </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    alt="c++"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chennareddy44&show_icons=true&locale=en&layout=compact" alt="chennareddy44" /></p>
